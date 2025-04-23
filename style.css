@@ -1,0 +1,39 @@
+body{
+    background-color: #262626; /* Define a cor de fundo da página */
+    color: white; /* Define a cor do texto */
+    font-family: 'poppins', sans-serif; /* Define a fonte principal */
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+}
+
+p{
+    display: flex;
+    justify-content: center;
+}
+
+.botao {
+    background-color: #0078D7;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    height: 36px;
+    width: 105px;
+    cursor: pointer;
+}
+
+.botoes1 {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    margin-top: 250px;
+}
+
+.botoes2 {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    margin-top: 20px;
+}
